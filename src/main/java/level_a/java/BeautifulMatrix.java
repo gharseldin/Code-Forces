@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class ABeautifulMatrix {
+public class BeautifulMatrix {
     public static void main(String[] args) throws IOException {
         String data = "0 0 0 0 0\n" +
                 "0 0 0 0 1\n" +

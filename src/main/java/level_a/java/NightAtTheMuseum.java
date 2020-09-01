@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class ANightAtTheMuseum {
+public class NightAtTheMuseum {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String word = br.readLine();

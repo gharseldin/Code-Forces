@@ -3,7 +3,7 @@ package level_a.java;
 import java.io.*;
 import java.util.Arrays;
 
-public class AGravityFlip {
+public class GravityFlip {
     public static void main(String[] args) throws IOException {
         String data = "4\n" +
                 "3 2 1 2";

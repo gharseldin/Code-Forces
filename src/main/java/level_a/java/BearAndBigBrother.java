@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class ABearAndBigBrother {
+public class BearAndBigBrother {
     public static void main(String[] args) throws IOException {
         String data = "4 7";
         InputStream in = new ByteArrayInputStream(data.getBytes("UTF-8"));

@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class ABoyOrGirl {
+public class BoyOrGirl {
     public static void main(String[] args) throws IOException {
         String data = "wjmzbmr";
         InputStream in = new ByteArrayInputStream(data.getBytes("UTF-8"));

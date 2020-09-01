@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class ASerejaAndDima {
+public class SerejaAndDima {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         br.readLine();

@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class ATeam {
+public class Team {
     public static void main(String[] args) throws IOException {
         String data = "3\n" +
                 "1 1 0\n" +

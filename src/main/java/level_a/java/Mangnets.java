@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class AMangnets {
+public class Mangnets {
     public static void main(String[] args) throws IOException {
         String data = "6\n" +
                 "10\n" +

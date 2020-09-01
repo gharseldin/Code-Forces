@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class APoliceRecruits {
+public class PoliceRecruits {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         br.readLine();

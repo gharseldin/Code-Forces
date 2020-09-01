@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class AAntonDanik {
+public class AntonDanik {
     public static void main(String[] args) throws IOException {
         String data = "6\n" +
                 "ADAAAA";

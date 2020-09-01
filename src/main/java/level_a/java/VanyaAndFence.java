@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class AVanyaAndFence {
+public class VanyaAndFence {
     public static void main(String[] args) throws IOException {
         String data = "3 7\n" +
                 "4 5 14";

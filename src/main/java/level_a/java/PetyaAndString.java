@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class APetyaAndString {
+public class PetyaAndString {
     public static void main(String[] args) throws IOException {
         String data = "aaaa\n" +
                 "aabA";

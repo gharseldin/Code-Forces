@@ -2,7 +2,7 @@ package level_a.java;
 
 import java.io.*;
 
-public class AWord {
+public class Word {
     public static void main(String[] args) throws IOException {
         String data = "HoUSe";
         InputStream in = new ByteArrayInputStream(data.getBytes("UTF-8"));
