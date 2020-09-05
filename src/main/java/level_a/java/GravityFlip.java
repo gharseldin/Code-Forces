@@ -5,10 +5,6 @@ import java.util.Arrays;
 
 public class GravityFlip {
     public static void main(String[] args) throws IOException {
-        String data = "4\n" +
-                "3 2 1 2";
-        InputStream in = new ByteArrayInputStream(data.getBytes("UTF-8"));
-        System.setIn(in);
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int cols = Integer.parseInt(br.readLine());
         String[] col = br.readLine().split("\\s+");
